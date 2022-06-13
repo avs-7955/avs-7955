@@ -14,7 +14,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-7955&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave&layout=compact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avs-7955&repo=PythonBootcamp&theme=synthwave)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avs-7955&repo=To-Do-List&theme=synthwave)
 
