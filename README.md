@@ -34,7 +34,9 @@
 <a href="https://www.hackerearth.com/@ayushi.v.sharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ayushi.v.sharan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushivsharan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushivsharan/profile" height="30" width="40" /></a>
 </p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/avs-7955/avs-7955/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avs-7955/avs-7955/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
 
 
 
