@@ -30,14 +30,12 @@
 </p>
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-7955&count_private=true&show_icons=true&theme=synthwave&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave&layout=compact&hide_border=true)
-<a href="https://github.com/avs-7955/To-Do-List">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avs-7955&repo=To-Do-List&theme=synthwave&hide_border=true"/>
-</a>
-<a href="https://github.com/avs-7955/PythonBootcamp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avs-7955&repo=PythonBootcamp&theme=synthwave&hide_border=true"/>
-</a>
-
+<table>
+<tr>
+<img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=avs-7955&theme=synthwave&hide_border=true"/>
+</tr>
+<tr>
+<img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave&layout=compact&hide_border=true"/>
+</tr>
+</table>
 
