@@ -32,10 +32,14 @@
 
 <table>
 <tr>
+  <td>
 <img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=avs-7955&theme=synthwave&hide_border=true"/>
+  </td>
 </tr>
 <tr>
+  <td>
 <img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave&layout=compact&hide_border=true"/>
+  </td>
 </tr>
 </table>
 
