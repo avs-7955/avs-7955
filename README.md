@@ -34,10 +34,10 @@
             <table>
                 <tr>
                     <td>
-                        <img width=400 src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=avs-7955&theme=algolia&hide_border=true"  alt="GitHub Stats" />
+                        <img width=420 src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=avs-7955&theme=synthwave&hide_border=true"  alt="GitHub Stats" />
                     </td>
                     <td>
-                        <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=algolia&layout=compact&hide_border=true">
+                        <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave&layout=compact&hide_border=true">
                     </td>
                 </tr>
             </table>  
