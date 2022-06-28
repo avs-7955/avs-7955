@@ -28,8 +28,21 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/avs-7955/avs-7955/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
-
 <div>
-<img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=avs-7955&theme=synthwave&hide_border=true"/>
-<img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=synthwave&layout=compact&hide_border=true"/>
-</div>
+    <p align="center">
+        <div align="center">
+            <table>
+                <tr>
+                    <td>
+                        <img width=400 src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=avs-7955&theme=algolia&hide_border=true"  alt="GitHub Stats" />
+                    </td>
+                    <td>
+                        <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=avs-7955&theme=algolia&layout=compact&hide_border=true">
+                    </td>
+                </tr>
+            </table>  
+  </div>
+  </p>
+  </div>
+  
+              
