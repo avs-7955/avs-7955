@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avs-7955&label=Profile%20views&color=0e75b6&style=flat" alt="avs-7955" /> </p>
 
 - 🔭 I’m currently working on Web development.
-- 🌱 I’m currently learning Tableau.
+- 🌱 I’m currently learning Data Cleaning.
 - 👯 I’m looking to collaborate on Web development.
 - 🤔 I’m looking for help with Data Analysis.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/avs-7955)
