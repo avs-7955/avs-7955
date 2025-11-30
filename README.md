@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/avs-7955/avs-7955/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
-<div>
+<!-- <div>
     <p align="center">
         <div align="center">
             <table>
@@ -40,8 +40,8 @@
                     </td>
                 </tr>
             </table>  
-  </div>
-  </p>
-  </div>
+  </div> -->
+  <!-- </p>
+  </div> -->
   
               
